@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raju Reddy Nimmathi
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning python, java
-- 💞️ I’m looking to collaborate ML and DL project 
+- 💞️ I’m looking to collaborate ML and DL projects
 - 📫 Reach me @ rajureddynimmathi@gamil.com
 
 <!---
